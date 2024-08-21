@@ -1,26 +1,33 @@
-# Hi there, I'm Vanshaj Saxena! 👋
+![Welcome](./gifs/topGif(5)-501-delay.gif)
 
-I'm a passionate developer with a keen interest in creating innovative solutions through code. My GitHub is a collection of my journey in the world of programming, filled with projects that challenge and inspire me.
+## About
+I'm a student and developer currently pursuing my studies at Galgotias University, India.
 
-- 🔭 **Currently working on**: A few exciting hobby projects that keep my creativity flowing.
-- 🌱 **Currently learning**: Java, exploring its depths and applying it to my projects.
-- 💬 **Ask me about**: Lua, Java, Neovim. I'm always up for a discussion or to help out!
-- 😄 **Pronouns**: he/him
+As a developer, I enjoy exploring different approaches to solve problems, and you'll often find me creating and developing non-conventional approaches to solve problems.
 
-## 🚀 Projects & Contributions
-I enjoy contributing to open-source projects and building tools that make life easier for developers and users alike.
+## Tools and Expertise
 
-## 🛠️ Skills & Tools
-- **Languages**: Lua, Java, Swift
-- **Tools**: Neovim, Firebase, Jira, GitHub Actions, KDE Plasma
-- **Concepts**: DevOps, Continuous Integration, Agile Development
+- I have an interest in Linux, with a fair understanding of its core utilities.
+- Java is my preferred language, and I also know Swift, Lua (particularly from Neovim), Nix, and Bash.
+- I use Neovim as my primary code editor and a bare-metal Linux install of NixOS for development.
 
-## 🌐 Connect with Me
-- **LinkedIn**: I'll add it.
+## Projects & Contributions
 
-## 📈 GitHub Stats
-![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-Feel free to explore my repositories, contribute, or reach out if you want to collaborate on something cool!
+- Although I have limited contributions to open-source projects, I enjoy reading and learning from others' code.
 
-Thanks for stopping by! 😄
+### Recently
+
+
+- Developed a SaaS using the Swift toolchain during a 4-week internship at Infosys Mysore. I served as the Scrum Master for a team of 10, working within an agile development model.
+- Made valuable connections and learned from some incredible people during my internship.
+
+![](https://raw.githubusercontent.com/vanshajsaxena/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vanshajsaxena/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+## Connect with Me
+
+
+You can reach out to me here on GitHub, or contact me directly via email at [vs110405@outlook.com](mailto:vs110405@outlook.com).
+
+Feel free to explore my public repositories or contribute if something catches your interest.
