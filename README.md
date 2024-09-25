@@ -22,10 +22,6 @@ As a developer, I enjoy exploring different approaches to solve problems, and yo
 - Developed a SaaS using the Swift toolchain during a 4-week internship at Infosys Mysore. I served as the Scrum Master for a team of 10, working within an agile development model.
 - Made valuable connections and learned from some incredible people during my internship.
 
-![](https://raw.githubusercontent.com/vanshajsaxena/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vanshajsaxena/github-stats/master/generated/languages.svg#gh-light-mode-only)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshajSaxena&show_icons=true&locale=en&layout=compact" alt="VanshajSaxena" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshajSaxena&" alt="VanshajSaxena" /></p>
 
 ## Connect with Me
 
@@ -33,3 +29,7 @@ As a developer, I enjoy exploring different approaches to solve problems, and yo
 You can reach out to me here on GitHub, or contact me directly via email at [vs110405@outlook.com](mailto:vs110405@outlook.com).
 
 Feel free to explore my public repositories or contribute if something catches your interest.
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshajSaxena&show_icons=true&locale=en&layout=compact" alt="VanshajSaxena" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshajSaxena&" alt="VanshajSaxena" /></p>
