@@ -25,6 +25,7 @@ As a developer, I enjoy exploring different approaches to solve problems, and yo
 ![](https://raw.githubusercontent.com/vanshajsaxena/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/vanshajsaxena/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshajSaxena&show_icons=true&locale=en&layout=compact" alt="VanshajSaxena" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshajSaxena&" alt="VanshajSaxena" /></p>
 
 ## Connect with Me
 
