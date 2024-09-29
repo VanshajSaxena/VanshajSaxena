@@ -30,5 +30,5 @@ You can reach out to me here on GitHub, or contact me directly via email at [vs1
 
 Feel free to explore my public repositories or contribute if something catches your interest.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshajSaxena&show_icons=false&locale=en&layout=compact" alt="VanshajSaxena" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshajSaxena&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=compact" alt="VanshajSaxena" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VanshajSaxena&hide_border=true" alt="GitHub Streak" /></a>
