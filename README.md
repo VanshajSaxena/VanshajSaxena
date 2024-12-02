@@ -32,4 +32,5 @@ Feel free to explore my public repositories or contribute if something catches y
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshajSaxena&show_icons=true&locale=en&layout=compact" alt="VanshajSaxena" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VanshajSaxena&theme=dark" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VanshajSaxena&hide_border=true)](https://git.io/streak-stats)
