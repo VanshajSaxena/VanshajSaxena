@@ -30,7 +30,4 @@ You can reach out to me here on GitHub, or contact me directly via email at [vs1
 
 Feel free to explore my public repositories or contribute if something catches your interest.
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshajSaxena&show_icons=true&locale=en&layout=compact" alt="VanshajSaxena" /></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=VanshajSaxena&hide_border=true)](https://git.io/streak-stats)
