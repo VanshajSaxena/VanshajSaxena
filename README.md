@@ -1,6 +1,7 @@
-![Welcome](./gifs/topGif(5)-501-delay.gif)
+![Welcome](<./gifs/topGif(5)-501-delay.gif>)
 
 ## About
+
 I'm a student and developer currently pursuing my studies at Galgotias
 University, India.
 
@@ -35,10 +36,11 @@ solve problems.
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
 ## Development Projects
 
 - Developed a SaaS using the Swift toolchain during an internship at Infosys
-Mysore.
+  Mysore.
 - Visit my public repositories to see some of my projects.
 
 ## Connect with Me
@@ -50,4 +52,3 @@ Feel free to explore my public repositories or contribute if something catches
 your interest.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshajSaxena&show_icons=true&locale=en&layout=compact" alt="VanshajSaxena" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VanshajSaxena&hide_border=true" alt="GitHub Streak" /></a>
